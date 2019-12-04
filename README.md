@@ -65,7 +65,8 @@ Each of the approaches has its advantages and disadvantages for pricing differen
 * Numpy: Numpy is a fundamental package to support for multi-dimensional arrays and matrices. It is not only used for scientific computing, but also for multi-dimensional container of generic data.
 
 * Math: Math provides access to the mathematical functions, such as pi, log, exp, sqrt, and other mathematical functions.  
-Statistics: Statistics provides access to the statistics functions, such as norm_pdf, norm_cdf, mean, stdev, and other statistics functions.
+
+* Statistics: Statistics provides access to the statistics functions, such as norm_pdf, norm_cdf, mean, stdev, and other statistics functions.
 
 * matplotlib.pyplot
 
